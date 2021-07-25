@@ -1,0 +1,108 @@
+/* ##################### SECTION ##################### */
+section #Oferta1{
+    width: 85%;
+    height: 860px;
+    background-image: url(../../Imagenes/Index/Oferta/FONDO.png);
+    margin-top: 16px;
+    margin-left: 7%;
+    text-align: right;
+}
+section #Oferta1 #C1{
+    width: 7%;
+    height: 100%;
+    background-color: rgb(233, 190, 72);
+    margin-right: 3%;
+}
+section #Oferta1 #C2{
+    width: 4%;
+    height: 100%;
+    background-color: rgb(233, 190, 72);
+}
+section #Oferta1 #Precio{
+    margin-right: 17%;
+    margin-left: 4%;
+    margin-bottom: 20%;
+    /* width: 20%; */
+}
+section #Oferta1 button{
+    position: absolute;
+    margin-left: -31%;
+    margin-top: 35%;
+    width: 300px;
+    height: 100px;
+    border: none;
+    background-color: rgb(233, 190, 72);
+}
+/* Productos */
+section #Productos{
+    width: 85%;
+    margin-left: 7%;
+}
+section #Productos h3{
+    margin-bottom: -10px;
+    font-size: 150%;
+}
+.Linea1{
+width: 100%;
+height: 1px;
+background-color: black;
+}
+section #Productos .Prod{
+    width: 20%;
+    margin-left: 10%;
+    margin-top: 1%;
+}
+/* Nosotros */
+section #Nosotros{
+    width: 42%;
+    margin-left: 7%;
+    float: left;
+}
+section #Nosotros h3{
+    margin-bottom: -10px;
+    font-size: 150%;
+    
+}
+section #Nosotros .Icon{
+    width: 3.5%;
+    float: right;
+    margin-bottom: -10px;
+}
+/* Ubicación */
+section #Ubicacion{
+    width: 42%;
+    margin-right: 7%;
+    float: right;
+}
+section #Ubicacion h3{
+    margin-bottom: -10px;
+    font-size: 150%;
+}
+section #Ubicacion .Icon{
+    width: 2.5%;
+    float: right;
+    margin-bottom: -10px;
+}
+section #Ubicacion #Mapa{
+    width: 80%;
+    height: 200px;
+    margin-left: 10%;
+    margin-top: 12px;
+}
+/* Nuestra tienda */
+section #NuestraTienda{
+    width: 85%;
+    margin-left: 7%;
+    float: left;
+}
+section #NuestraTienda h3{
+    margin-bottom: -10px;
+    font-size: 150%;
+}
+section #NuestraTienda .Icon{
+    width: 1.5%;
+    float: right;
+}
+section #NuestraTienda .ImgSlider{
+    width: 33%;
+}

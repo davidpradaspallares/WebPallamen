@@ -1,0 +1,40 @@
+/* ##################### CABECERA ##################### */
+header{
+    width: 100.8%;
+    height: 100px;
+    margin: -0.4%;
+    background-color: rgb(233, 190, 72);
+}
+/* Logo Pallamen Cabecera */
+header #LogoPallamen{
+    width: 170px;
+    margin: 0.2%;
+}
+/* Iconos  redes sociales*/
+header .IconRedSocialCab{
+    width: 34px;
+    float: right;
+    margin-right: 1.5%;
+    margin-top: 35px;
+}
+header #IRSCF{
+    margin-right: 4%;
+}
+/* Categorias */
+header div{
+    width: 100%;
+    height: 20px;
+    background-color: rgb(233, 209, 72);
+    margin-top: -4.5px;
+    text-align: right;
+}
+header div a{
+    font-size: 90%;
+    text-decoration: none;
+    color: black;
+    margin-right: 10px;
+}
+header div #af{
+    margin-right: 40px;
+}
+

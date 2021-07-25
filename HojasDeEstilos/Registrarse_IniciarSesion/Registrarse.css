@@ -1,0 +1,30 @@
+section #Registrarse{
+    width: 80%;
+    height: 800px;
+    /* background-color: bisque; */
+    margin-top: 50px;
+    margin-left: 10%;
+    text-align: center;
+}
+section #Registrarse h1{
+    text-align: center;
+    padding-top: 5%;
+    font-size: 300%;
+}
+section #Registrarse input{
+    margin-top: 20px;
+    width: 30%;
+    height: 50px;
+    border: none;
+    font-size: 150%;
+    text-align: center;
+    border-bottom: solid;
+}
+section #Registrarse button{
+    margin-top: 20px;
+    width: 15%;
+    height: 50px;
+    border: none;
+    background-color: rgb(233, 190, 72);
+    font-size: 150%;
+}

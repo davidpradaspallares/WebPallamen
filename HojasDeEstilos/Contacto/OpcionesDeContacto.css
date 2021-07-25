@@ -1,0 +1,24 @@
+body section{
+    text-align: center;
+    margin-top: 5%;
+}
+body section div{
+ max-width: 500px;
+ background-color: rgb(233, 190, 72);
+ text-align: center;
+ border: solid;
+ border-style:ridge;
+ border-color: rgb(238, 188, 50);
+ float: left;
+ margin-left: 14.5%;
+ margin-top: 3%;
+ padding: 0.5%;
+}
+body section div button{
+    background-color: rgb(238, 188, 50);
+    border: none;
+}
+body section div img{
+    max-width: 25%;
+    padding: 1%;
+}
